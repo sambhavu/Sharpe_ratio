@@ -1,4 +1,4 @@
-sharpe(vector<double> pnl)
+double sharpe(vector<double> pnl)
 
 {
 	double avg, sigma,sum,count;
